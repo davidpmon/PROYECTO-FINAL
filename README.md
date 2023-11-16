@@ -1,10 +1,10 @@
 # PROYECTO-FINAL
 Proyecto final de lógica computacional, Maquina Expendedora
 Integrantes: 
-Lozano David\n
-Portilla David\n  
-Guerrero Alejandro\n 
-Rodriguez Josue\n
+Lozano David, 
+Portilla David, 
+Guerrero Alejandro, 
+Rodriguez Josue, 
 
 Se desea construir una aplicación que permita simular el uso, por parte de un cliente, de una máquina
 expendedora de alimentos, la cual contiene 4 productos. La aplicación permite al usuario (o cliente de la
